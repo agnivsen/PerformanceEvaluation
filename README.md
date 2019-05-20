@@ -8,7 +8,7 @@ This is done using Eigen, for a sufficiently large array (change the size if nee
 [Eigen 3.3](http://eigen.tuxfamily.org/index.php?title=Main_Page#Download)
 
 ## How to install
-Go to the root directory and do this:
+Go to the base directory and do this:
 
     mkdir build
     cd build
